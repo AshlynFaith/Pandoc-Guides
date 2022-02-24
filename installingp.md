@@ -11,7 +11,7 @@ Hello Students! This is a step-by-step guide on how to download and install Pand
 
 
 <figure>
-<img src="image/pandoc.jpg" alt="PandocImage">
+<img src="image/pandoc.jpg" alt="Pandoc Image">
 <figcaption>Figure 1: Pandoc Installation Page</figcaption>
 </figure>
 
