@@ -6,16 +6,19 @@
 -	A selected document from Microsoft Word (.docx)
 -	Pandoc downloaded and installed on your device
 ## Steps 
+
 1. Select a document from Microsoft Word <br>
+
     - For the purpose of this guide our Microsoft Word document will be `"autumn.docx"`
 
 2. Erase any presentation features <br>
 **Note:** These features may include Table of Contents or a fancy cover page <br> 
 
 3. Open computer terminal/Command Prompt and change directory (cd) to the file holding your Microsoft Word document <br>
+
 	- To change directory type `"cd"` in the terminal, hit space, and drag the folder holding `"autumn.docx"` into the computer terminal <br> 
-	
- 4. In the computer terminal or Command Prompt application write the conversion code
+
+4. In the computer terminal or Command Prompt application write the conversion code
 
 **Note:** Commands needed are as follows - <br>  
 >>	**Pandoc** = The main command <br>
