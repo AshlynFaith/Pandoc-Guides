@@ -10,6 +10,7 @@
     - For the purpose of this guide our Microsoft Word document will be `"autumn.docx"`
 2)	Erase any presentation features 
 <br> **Note:** These features may include Table of Contents or a fancy cover page
+
 3)	Open computer terminal/Command Prompt and change directory (cd) to the file holding your Microsoft Word document <br>
     - To change directory type `"cd"` in the terminal, hit space, and drag the folder holding `"autumn.docx"` into the computer terminal
 4)	In the computer terminal or Command Prompt application write the conversion code

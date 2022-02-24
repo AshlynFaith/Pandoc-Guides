@@ -4,7 +4,7 @@ Hello Students! This is a step-by-step guide on how to download and install Pand
 
 ## Tools 
 -	Access to internet 
--	Pandoc website
+-	Pandoc website 
 
 ## Steps 
 1)	Go to [pandoc.org](https://pandoc.org/installing.html) **(Figure 1)** 

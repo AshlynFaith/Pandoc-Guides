@@ -3,7 +3,7 @@ Hello students! This guide is to walk you through how to convert a Markdown file
 # How to Convert Markdown to a Word File Using Pandoc 
 
 ## Tools 
--	A selected file from Markdown (.md) 
+-	A selected file from Markdown (.md)  
 -	Pandoc downloaded and installed on your computer 
 -	Visual Studio Code downloaded and installed on your computer 
 ## Steps 
