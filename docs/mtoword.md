@@ -6,7 +6,9 @@ Hello students! This guide is to walk you through how to convert a Markdown file
 -	A selected file from Markdown (.md)  
 -	Pandoc downloaded and installed on your computer 
 -	Visual Studio Code downloaded and installed on your computer 
+
 ## Steps 
+
 1. Begin by opening your Markdown file in VS Code <br> 
     - For the purpose of this guide our Markdown file will be `"spring.md"` <br>
 
