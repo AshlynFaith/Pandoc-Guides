@@ -5,6 +5,7 @@
 ## Tools 
 -	A selected document from Microsoft Word (.docx)
 -	Pandoc downloaded and installed on your device
+
 ## Steps 
 
 1. Select a document from Microsoft Word <br>
