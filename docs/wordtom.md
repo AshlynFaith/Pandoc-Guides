@@ -22,7 +22,8 @@
 4. In the computer terminal or Command Prompt application write the conversion code
 
 **Note:** Commands needed are as follows - <br>  
->>	**Pandoc** = The main command  
+
+**Pandoc** = The main command  
 **-s** = Source file <br>
 **-t** = Target format <br>
 **--extract media** = Sets folder to retrieve messages <br>
