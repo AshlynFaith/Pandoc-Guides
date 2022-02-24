@@ -7,11 +7,11 @@ Hello Students! This is a step-by-step guide on how to download and install Pand
 -	Pandoc website 
 
 ## Steps 
-1)	Go to [pandoc.org](https://pandoc.org/installing.html) **(Figure 1)** 
+1.	Go to [pandoc.org](https://pandoc.org/installing.html) **(Figure 1)** 
 
 
 <figure>
-<img src="image/pandoc.jpg" alt="PandocImage">
+<img src="image/pandoc.jpg" alt="Pandoc Image">
 <figcaption>Figure 1: Pandoc Installation Page</figcaption>
 </figure>
 
@@ -34,8 +34,8 @@ Hello Students! This is a step-by-step guide on how to download and install Pand
 
 
 
-2)	Follow instructions on the installation process according to the software of your device
-3)	Check to see if Pandoc was installed correctly 
+2.	Follow instructions on the installation process according to the software of your device
+3.	Check to see if Pandoc was installed correctly 
     - Open the Command Prompt/computer terminal 
     - Type `"pandoc -v"` exactly as shown <br> 
 
