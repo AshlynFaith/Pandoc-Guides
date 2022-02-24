@@ -9,11 +9,7 @@ Hello Students! This is a step-by-step guide on how to download and install Pand
 ## Steps 
 1.	Go to [pandoc.org](https://pandoc.org/installing.html) **(Figure 1)** 
 
-
-<figure>
-<img src="image/pandoc.jpg" alt="Pandoc Image">
-<figcaption>Figure 1: Pandoc Installation Page</figcaption>
-</figure>
+<figure><img src="image\pandoc.jpg" alt="Picture of a BLT sandwich"><figcaption>Figure 1: Your sandwich should look like this</figcaption></figure>
 
 
 
