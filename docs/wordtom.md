@@ -22,11 +22,11 @@
 4. In the computer terminal or Command Prompt application write the conversion code
 
 **Note:** Commands needed are as follows - <br>  
->>	**Pandoc** = The main command 
-<br> **-s** = Source file 
-<br> **-t** = Target format
-<br> **--extract media** = Sets folder to retrieve messages 
-<br> **-o** = Output file 
+>>	**Pandoc** = The main command  
+**-s** = Source file <br>
+**-t** = Target format <br>
+**--extract media** = Sets folder to retrieve messages <br>
+**-o** = Output file 
 
 <br>**The Conversion Code:** <br>
 `_pandoc -s autumn.docx -t markdown --extract-media=images -o autumn.md_`
